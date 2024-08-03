@@ -49,7 +49,7 @@ function DataTable({ data }) {
           </Grid>
         </Grid>
       </Box>
-      <Box sx={{ height: 600, width: '100%' ,backgroundColor:"#edeaea" }}>
+      <Box sx={{ height: 600, width: '100%' ,backgroundColor:"#edeaea4e" }}>
         <DataGrid
           rows={filteredRows}
           columns={columns}
